@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">view_add</string>
+    <string name="example_text">Ex., 1000</string>
+    <string name="button">Button</string>
+    <string name="button_test">Add</string>
+    <string name="result_text">Result</string>
+</resources>
